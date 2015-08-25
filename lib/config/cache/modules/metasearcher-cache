@@ -1,0 +1,6 @@
+var redis = require('../../../utils/redis_store');
+module.exports = {
+    metasearcher: {
+
+    }
+}

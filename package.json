@@ -1,0 +1,10 @@
+{
+  "name": "frontend-core",
+  "version": "0.1.0",
+  "description": "Connection with api-backend",
+  "main": "index.js",
+  "private": true,
+  "author": {
+    "name": "Enrico Martin"
+  }
+}
